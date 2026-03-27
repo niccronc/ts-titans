@@ -1,0 +1,25 @@
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+dist/
+.eggs/
+*.egg-info/
+.pytest_cache/
+.venv
+venv/
+.idea/
+.vscode/
+*.ckpt
+*.pt
+*.pth
+lightning_logs/
+# Data files
+raw_data/
+data/
+*.bin
+*.csv
+# Project context
+GEMINI.md
